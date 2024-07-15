@@ -1,0 +1,17 @@
+# DevOps-Scripts
+
+A collection of useful scripts for automating DevOps tasks and workflows.
+
+## Scripts
+
+- [CI/CD](ci-cd/README.md)
+- [Terraform](terraform/README.md)
+- [Ansible](ansible/README.md)
+
+## Contributing
+
+Feel free to fork this repository and contribute by adding more scripts, improving existing ones, or fixing bugs. Please make sure to follow the contribution guidelines.
+
+## License
+
+This project is licensed under the MIT License.
